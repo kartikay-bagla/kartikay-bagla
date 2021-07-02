@@ -12,12 +12,13 @@ I'm Kartikay Bagla but that's not very hard to deduce. I'm currently studying in
 
 I'm interested in ML/AI, tinkering with hardware, building stuff to automate tasks and anything else that is fun, interesting and/or related to tech!
 
+Maybe take a look at some of my repositories?
+
 #
 ![Kartikay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikay-bagla&count_private=true&show_icons=true&theme=radical)
 #
 
-Maybe take a look at some of my repositories?
 
+### Recent Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
