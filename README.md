@@ -21,9 +21,9 @@ Maybe take a look at some of my repositories?
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/practical-nlp/practical-nlp/pull/67) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
-2. 🎉 Merged PR [#66](https://github.com/practical-nlp/practical-nlp/pull/66) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
-3. 🗣 Commented on [#35](https://github.com/practical-nlp/practical-nlp/issues/35) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
-4. ❗️ Closed issue [#35](https://github.com/practical-nlp/practical-nlp/issues/35) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
-5. 🎉 Merged PR [#65](https://github.com/practical-nlp/practical-nlp/pull/65) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
+1. 🎉 Merged PR [#55](https://github.com/practical-nlp/practical-nlp/pull/55) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
+2. 🎉 Merged PR [#54](https://github.com/practical-nlp/practical-nlp/pull/54) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
+3. 🎉 Merged PR [#67](https://github.com/practical-nlp/practical-nlp/pull/67) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
+4. 🎉 Merged PR [#66](https://github.com/practical-nlp/practical-nlp/pull/66) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
+5. 🗣 Commented on [#35](https://github.com/practical-nlp/practical-nlp/issues/35) in [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
 <!--END_SECTION:activity-->
