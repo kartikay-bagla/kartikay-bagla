@@ -21,9 +21,9 @@ Maybe take a look at some of my repositories?
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kartikay-bagla/quickclone/issues/1) in [kartikay-bagla/quickclone](https://github.com/kartikay-bagla/quickclone)
-2. 🎉 Merged PR [#13](https://github.com/agarwalvishu6300/ecell-dtu-self/pull/13) in [agarwalvishu6300/ecell-dtu-self](https://github.com/agarwalvishu6300/ecell-dtu-self)
-3. 🎉 Merged PR [#12](https://github.com/agarwalvishu6300/ecell-dtu-self/pull/12) in [agarwalvishu6300/ecell-dtu-self](https://github.com/agarwalvishu6300/ecell-dtu-self)
-4. 🎉 Merged PR [#11](https://github.com/agarwalvishu6300/ecell-dtu-self/pull/11) in [agarwalvishu6300/ecell-dtu-self](https://github.com/agarwalvishu6300/ecell-dtu-self)
-5. 🗣 Commented on [#75](https://github.com/practical-nlp/practical-nlp-code/issues/75) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
+1. ❗️ Closed issue [#1](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper/issues/1) in [kartikay-bagla/nasa-potd-customizable-wallpaper](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper)
+2. ❗️ Opened issue [#1](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper/issues/1) in [kartikay-bagla/nasa-potd-customizable-wallpaper](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper)
+3. 🗣 Commented on [#1](https://github.com/kartikay-bagla/quickclone/issues/1) in [kartikay-bagla/quickclone](https://github.com/kartikay-bagla/quickclone)
+4. 🎉 Merged PR [#13](https://github.com/agarwalvishu6300/ecell-dtu-self/pull/13) in [agarwalvishu6300/ecell-dtu-self](https://github.com/agarwalvishu6300/ecell-dtu-self)
+5. 🎉 Merged PR [#12](https://github.com/agarwalvishu6300/ecell-dtu-self/pull/12) in [agarwalvishu6300/ecell-dtu-self](https://github.com/agarwalvishu6300/ecell-dtu-self)
 <!--END_SECTION:activity-->
