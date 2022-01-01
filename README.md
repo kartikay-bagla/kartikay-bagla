@@ -21,7 +21,7 @@ Maybe take a look at some of my repositories?
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#83](https://github.com/practical-nlp/practical-nlp-code/issues/83) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
+1. 🗣 Commented on [#86](https://github.com/practical-nlp/practical-nlp-code/issues/86) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
 2. 🗣 Commented on [#83](https://github.com/practical-nlp/practical-nlp-code/issues/83) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
 3. 🗣 Commented on [#83](https://github.com/practical-nlp/practical-nlp-code/issues/83) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
 4. ❗️ Closed issue [#1](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper/issues/1) in [kartikay-bagla/nasa-potd-customizable-wallpaper](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper)
