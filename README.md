@@ -24,6 +24,6 @@ Maybe take a look at some of my repositories?
 1. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
 2. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
 3. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
-4. 🗣 Commented on [#86](https://github.com/practical-nlp/practical-nlp-code/issues/86) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
-5. ❗️ Opened issue [#1](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper/issues/1) in [kartikay-bagla/nasa-potd-customizable-wallpaper](https://github.com/kartikay-bagla/nasa-potd-customizable-wallpaper)
+4. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
+5. 🗣 Commented on [#86](https://github.com/practical-nlp/practical-nlp-code/issues/86) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
 <!--END_SECTION:activity-->
