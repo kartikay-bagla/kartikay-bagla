@@ -21,9 +21,9 @@ Maybe take a look at some of my repositories?
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#909](https://github.com/chaos-genius/chaos_genius/pull/909) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
-2. 💪 Opened PR [#906](https://github.com/chaos-genius/chaos_genius/pull/906) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
-3. 💪 Opened PR [#905](https://github.com/chaos-genius/chaos_genius/pull/905) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
-4. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
+1. 🎉 Merged PR [#910](https://github.com/chaos-genius/chaos_genius/pull/910) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
+2. 💪 Opened PR [#909](https://github.com/chaos-genius/chaos_genius/pull/909) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
+3. 💪 Opened PR [#906](https://github.com/chaos-genius/chaos_genius/pull/906) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
+4. 💪 Opened PR [#905](https://github.com/chaos-genius/chaos_genius/pull/905) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
 5. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
 <!--END_SECTION:activity-->
