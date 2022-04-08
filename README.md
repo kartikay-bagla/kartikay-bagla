@@ -21,9 +21,9 @@ Maybe take a look at some of my repositories?
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
-2. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
+1. 💪 Opened PR [#906](https://github.com/chaos-genius/chaos_genius/pull/906) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
+2. 💪 Opened PR [#905](https://github.com/chaos-genius/chaos_genius/pull/905) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
 3. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
 4. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
-5. 🗣 Commented on [#86](https://github.com/practical-nlp/practical-nlp-code/issues/86) in [practical-nlp/practical-nlp-code](https://github.com/practical-nlp/practical-nlp-code)
+5. 🗣 Commented on [#66](https://github.com/m0ngr31/DailyNotes/issues/66) in [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes)
 <!--END_SECTION:activity-->
