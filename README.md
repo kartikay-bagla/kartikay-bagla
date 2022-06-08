@@ -4,8 +4,6 @@
 #
 [![Website](https://img.shields.io/website?label=kartikaybagla.com&style=flat-square&url=https%3A%2F%2Fkartikaybagla.com)](https://kartikaybagla.com)
 [![Website](https://img.shields.io/website?label=itwasthe.management&style=flat-square&url=https%3A%2F%2Fitwasthe.management)](https://itwasthe.management)
-[![Website](https://img.shields.io/website?label=coordinate.bond&style=flat-square&url=https%3A%2F%2Fcoordinate.bond)](https://coordinate.bond)
-[![Website](https://img.shields.io/website?label=glugg.in&style=flat-square&url=https%3A%2F%2Fglugg.in)](https://glugg.in)
 #
 
 I'm Kartikay Bagla but that's not very hard to deduce. I'm currently studying in the Applied Mathematics Department of Delhi Technological University (formerly Delhi College of Engineering).
