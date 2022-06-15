@@ -19,9 +19,9 @@ Maybe take a look at some of my repositories?
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/chaos-genius/chaosgenius-docs/pull/10) in [chaos-genius/chaosgenius-docs](https://github.com/chaos-genius/chaosgenius-docs)
-2. 🎉 Merged PR [#980](https://github.com/chaos-genius/chaos_genius/pull/980) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
-3. 🎉 Merged PR [#979](https://github.com/chaos-genius/chaos_genius/pull/979) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
-4. 💪 Opened PR [#980](https://github.com/chaos-genius/chaos_genius/pull/980) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
-5. 💪 Opened PR [#10](https://github.com/chaos-genius/chaosgenius-docs/pull/10) in [chaos-genius/chaosgenius-docs](https://github.com/chaos-genius/chaosgenius-docs)
+1. ❌ Closed PR [#735](https://github.com/chaos-genius/chaos_genius/pull/735) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
+2. 🎉 Merged PR [#10](https://github.com/chaos-genius/chaosgenius-docs/pull/10) in [chaos-genius/chaosgenius-docs](https://github.com/chaos-genius/chaosgenius-docs)
+3. 🎉 Merged PR [#980](https://github.com/chaos-genius/chaos_genius/pull/980) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
+4. 🎉 Merged PR [#979](https://github.com/chaos-genius/chaos_genius/pull/979) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
+5. 💪 Opened PR [#980](https://github.com/chaos-genius/chaos_genius/pull/980) in [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius)
 <!--END_SECTION:activity-->
